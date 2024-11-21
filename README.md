@@ -7,7 +7,7 @@
           Principal: {
               Federated: "cognito-identity.devoteam.com",
           },
-          Action: "sts:AssumeRole:AWS-Speicalist:*",
+          Action: "sts:AssumeRole:AWS-Specialist:*",
       },
   ],
 }
